@@ -22,59 +22,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://static.wikia.nocookie.net/vtv/images/9/95/VTV9_logo.png/revision/latest?cb=20200926010814&path-prefix=vi",VTV9
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2c/THVL1_logo_2016_%28HD%29.png/revision/latest/scale-to-width-down/2000?cb=20220703231040&path-prefix=vi",Vĩnh Long 1 HD
-https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/THVL2.png/revision/latest?cb=20201115052058&path-prefix=vi",Vĩnh Long 2 HD
-https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/THVL3_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411074327&path-prefix=vi",Vĩnh Long 3 HD
-https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/THVL4_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411075529&path-prefix=vi",Vĩnh Long 4 HD
-https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822163111/c1b78a71edcf_480_270.png",Đồng tháp 1
-https://livecdn.fptplay.net/sdc/dongthap_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Mien_Tay_2019.png/revision/latest?cb=20210829024638&path-prefix=vi",ĐỒNG THÁP 2
-https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/HGTV_Hau_Giang_2016.png/revision/latest/scale-to-width-down/1000?cb=20220423133241&path-prefix=vi",Hậu Giang
-https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/THTPCT_HD_logo_23.7.2020_%28Can_Tho%29.png/revision/latest?cb=20210718083337&path-prefix=vi",TP Cần Thơ HD
-https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/THTG_2017.png/revision/latest/scale-to-width-down/1200?cb=20211022043436&path-prefix=vi",Tiền Giang HD
-https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_LA34.svg/1200px-Logo_LA34.svg.png",Long An
-https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://thbt.vn/public/Home/images/THBT_logo2021.png",Bến Tre HD
-https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_BPTV.png",Bình Phước 1 HD
-https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_BPTV.png",Bình Phước 2 HD
-https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/THTV_logo_2003.png/revision/latest/scale-to-width-down/1200?cb=20220403040957&path-prefix=vi",trà vinh HD
-https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest/scale-to-width-down/1200?cb=20220624075054&path-prefix=vi",TRÀ VINH 2
-https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-kgtv.png",Kiên Giang
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg1.png",Kiên Giang 1 HD
-https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/%C4%90N1-RTV_2018.png/revision/latest?cb=20211207103028&path-prefix=vi",Đồng Nai 1 HD
-https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/%C4%90N2-RTV_logo_2003.png/revision/latest?cb=20211207103553&path-prefix=vi",Đồng Nai 2 HD
-https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_TTV11_Tay_Ninh_TV_25-02-2020.png",Tây Ninh HD
-https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png",BẠC LIÊU HD
-https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://topsvn.com/images/truyenhinh/stv1.png",Sóc Trăng 1
-https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/STV2.png/revision/latest/scale-to-width-down/250?cb=20211207102826&path-prefix=vi",Sóc Trăng 2
-http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/CTV_Ca_Mau_2015.png/revision/latest?cb=20211209003027&path-prefix=vi",cà mau HD
-https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg/1280px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg.png",An Giang HD
-http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/HTV1.png/revision/latest?cb=20210710050446&path-prefix=vi",HTV1 HD
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
@@ -140,55 +88,6 @@ https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png",SCTV HD PHIM TỔNG HỘP thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Logo_SCTV1.png/revision/latest?cb=20191009032130", SCTV1 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_sctv2.png",SCTV2 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-X1tut8Gx4rs/WseVIu6RQQI/AAAAAAAAD6I/4RpLTJeoANQMEjfhOrUVN2pRYyj4hIT2wCLcBGAs/h300/s3.png",SCTV3 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://nld.mediacdn.vn/thumb_w/540/2020/12/31/logo-kenh-sctv4-1609387794001229202629.png",SCTV4 thử nghiệm
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv4_s2/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/prg-image/sctv5.png",SCTV5 thử  nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-Y8R-P3RMceo/WseW162RWBI/AAAAAAAAD6k/5TzcBfg1ilg0y_Z7c0BjGjoABJzhra_hgCLcBGAs/h300/s6-hd-kbg.png",SCTV6 thử nghiệm
-https://vips-livecdn.fptplay.net/hda3/film360_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-PIa8Ys2X4Ik/WseSHMNgVrI/AAAAAAAAD5w/4zSBmGOHJuQp5dmg-HPA9pGgwsy8Q_9sACLcBGAs/h350/s7-hd-kbg.png",SCTV7 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-gGJQ-Lc--aE/W0zc5wwUfXI/AAAAAAAAASc/1ZNugcpXqSgRGiUoKUgzJ5akUAO66ztYwCLcBGAs/h2000/s8.png", SCTV8 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv9-tren-vtvcab.png",SCTV9 thử nghiệm
-#https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
-https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv9_s2/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/SCTV10.png/revision/latest?cb=20200930082127",SCTV10 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/SCTV11_old_logo.png/revision/latest?cb=20201011075443", SCTV11 thử nghiệm
-#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8
-https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv11_s2/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_sctv12.png",SCTV12 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Logo_SCTV13.png/revision/latest?cb=20201011121628",SCTV13 thử nghiệm
-https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-9Bw4SgHcj2M/WseYksiv6tI/AAAAAAAAD7E/_rlL_mEWfD0Qf9aLdbyR5sDAhdv89muWQCLcBGAs/h300/s14.png",SCTV14 thử nghiệm
-https://phimmoi.asia/tv24.php?id=sctv14
-$https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-1bmdnBSIk88/WpOHchHFhZI/AAAAAAAAD0E/oonOArz9dOkZaackkFEuXNT9fF4k6mIvwCEwYBhgL/h350/s15-hd-kbg.png",SCTV15 thử nghiệm
-https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/SCTV16_PNNDS_T%E1%BA%BFt_2021%2C_2022.png/revision/latest?cb=20220223140827&path-prefix=vi",SCTV16 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv17-tren-vtvcab.png",SCTV 17 thử nghiệm
-https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-KRQpTpibwu0/W0zc4eBLEGI/AAAAAAAAASA/EHw5aZKyybMLjaDQQ4zyYw7S3D-Td1fVwCLcBGAs/h400/s18.png",SCTV 18  thử nghiêm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/SCTV19_logo.png/revision/latest?cb=20191031110159",SCTV19 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/SCTV20_logo.png/revision/latest?cb=20191027012755",SCTV20 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/WiVKxK0.png",SCTV21 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lichtruyenhinh.net/storage/images/522918f29e353da53bfdb4861f11fa5d.png",SCTV22 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" 🍭 K+" tvg-logo="https://i.imgur.com/kEbNZiS.png",K+CINEMA 
@@ -264,6 +163,55 @@ https://856175157.r.vtvcdn.com/BIBI_PLUS_clear/m20_index.m3u8
 https://856175157.r.vtvcdn.com/LIFE_TV/m20_index.m3u8
 
 
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png",SCTV HD PHIM TỔNG HỘP thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Logo_SCTV1.png/revision/latest?cb=20191009032130", SCTV1 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_sctv2.png",SCTV2 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-X1tut8Gx4rs/WseVIu6RQQI/AAAAAAAAD6I/4RpLTJeoANQMEjfhOrUVN2pRYyj4hIT2wCLcBGAs/h300/s3.png",SCTV3 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://nld.mediacdn.vn/thumb_w/540/2020/12/31/logo-kenh-sctv4-1609387794001229202629.png",SCTV4 thử nghiệm
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv4_s2/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/prg-image/sctv5.png",SCTV5 thử  nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-Y8R-P3RMceo/WseW162RWBI/AAAAAAAAD6k/5TzcBfg1ilg0y_Z7c0BjGjoABJzhra_hgCLcBGAs/h300/s6-hd-kbg.png",SCTV6 thử nghiệm
+https://vips-livecdn.fptplay.net/hda3/film360_4000.stream/chunklist.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-PIa8Ys2X4Ik/WseSHMNgVrI/AAAAAAAAD5w/4zSBmGOHJuQp5dmg-HPA9pGgwsy8Q_9sACLcBGAs/h350/s7-hd-kbg.png",SCTV7 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-gGJQ-Lc--aE/W0zc5wwUfXI/AAAAAAAAASc/1ZNugcpXqSgRGiUoKUgzJ5akUAO66ztYwCLcBGAs/h2000/s8.png", SCTV8 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv9-tren-vtvcab.png",SCTV9 thử nghiệm
+#https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv9_s2/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/SCTV10.png/revision/latest?cb=20200930082127",SCTV10 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/SCTV11_old_logo.png/revision/latest?cb=20201011075443", SCTV11 thử nghiệm
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv11_s2/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_sctv12.png",SCTV12 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Logo_SCTV13.png/revision/latest?cb=20201011121628",SCTV13 thử nghiệm
+https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-9Bw4SgHcj2M/WseYksiv6tI/AAAAAAAAD7E/_rlL_mEWfD0Qf9aLdbyR5sDAhdv89muWQCLcBGAs/h300/s14.png",SCTV14 thử nghiệm
+https://phimmoi.asia/tv24.php?id=sctv14
+$https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-1bmdnBSIk88/WpOHchHFhZI/AAAAAAAAD0E/oonOArz9dOkZaackkFEuXNT9fF4k6mIvwCEwYBhgL/h350/s15-hd-kbg.png",SCTV15 thử nghiệm
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/SCTV16_PNNDS_T%E1%BA%BFt_2021%2C_2022.png/revision/latest?cb=20220223140827&path-prefix=vi",SCTV16 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv17-tren-vtvcab.png",SCTV 17 thử nghiệm
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lh3.googleusercontent.com/-KRQpTpibwu0/W0zc4eBLEGI/AAAAAAAAASA/EHw5aZKyybMLjaDQQ4zyYw7S3D-Td1fVwCLcBGAs/h400/s18.png",SCTV 18  thử nghiêm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/SCTV19_logo.png/revision/latest?cb=20191031110159",SCTV19 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/SCTV20_logo.png/revision/latest?cb=20191027012755",SCTV20 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/WiVKxK0.png",SCTV21 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://lichtruyenhinh.net/storage/images/522918f29e353da53bfdb4861f11fa5d.png",SCTV22 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 
 
 
@@ -325,3 +273,58 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/BoxMovie1_150x902.jpg", Box Movie 1 
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2c/THVL1_logo_2016_%28HD%29.png/revision/latest/scale-to-width-down/2000?cb=20220703231040&path-prefix=vi",Vĩnh Long 1 HD
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/THVL2.png/revision/latest?cb=20201115052058&path-prefix=vi",Vĩnh Long 2 HD
+https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/THVL3_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411074327&path-prefix=vi",Vĩnh Long 3 HD
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/THVL4_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411075529&path-prefix=vi",Vĩnh Long 4 HD
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822163111/c1b78a71edcf_480_270.png",Đồng tháp 1
+https://livecdn.fptplay.net/sdc/dongthap_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Mien_Tay_2019.png/revision/latest?cb=20210829024638&path-prefix=vi",ĐỒNG THÁP 2
+https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/HGTV_Hau_Giang_2016.png/revision/latest/scale-to-width-down/1000?cb=20220423133241&path-prefix=vi",Hậu Giang
+https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/THTPCT_HD_logo_23.7.2020_%28Can_Tho%29.png/revision/latest?cb=20210718083337&path-prefix=vi",TP Cần Thơ HD
+https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/THTG_2017.png/revision/latest/scale-to-width-down/1200?cb=20211022043436&path-prefix=vi",Tiền Giang HD
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_LA34.svg/1200px-Logo_LA34.svg.png",Long An
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://thbt.vn/public/Home/images/THBT_logo2021.png",Bến Tre HD
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_BPTV.png",Bình Phước 1 HD
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_BPTV.png",Bình Phước 2 HD
+https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/THTV_logo_2003.png/revision/latest/scale-to-width-down/1200?cb=20220403040957&path-prefix=vi",trà vinh HD
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/THTV2_logo_19-06-2022.png/revision/latest/scale-to-width-down/1200?cb=20220624075054&path-prefix=vi",TRÀ VINH 2
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-kgtv.png",Kiên Giang
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg1.png",Kiên Giang 1 HD
+https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/%C4%90N1-RTV_2018.png/revision/latest?cb=20211207103028&path-prefix=vi",Đồng Nai 1 HD
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/%C4%90N2-RTV_logo_2003.png/revision/latest?cb=20211207103553&path-prefix=vi",Đồng Nai 2 HD
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_TTV11_Tay_Ninh_TV_25-02-2020.png",Tây Ninh HD
+https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png",BẠC LIÊU HD
+https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://topsvn.com/images/truyenhinh/stv1.png",Sóc Trăng 1
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/STV2.png/revision/latest/scale-to-width-down/250?cb=20211207102826&path-prefix=vi",Sóc Trăng 2
+http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/CTV_Ca_Mau_2015.png/revision/latest?cb=20211209003027&path-prefix=vi",cà mau HD
+https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg/1280px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg.png",An Giang HD
+http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
