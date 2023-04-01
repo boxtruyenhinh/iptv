@@ -58,8 +58,6 @@ https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b50000
 https://vips-livecdn.fptplay.net/hda3/htvcplus_4000.stream/playlist.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://sparkcdneus2.azureedge.net/sparkimageassets/XPFFG4PL3BZ4NQ-a3b86c2e-7e3d-4b08-8316-08499d1d02a6",kênh thiếu nhi Cartoon Network🎅
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -86,8 +84,6 @@ https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://cn.i.cdn.ti-platform.com/cnlatam/content/1057/showpage/boomerang/ar/cardposta.jpg",kênh thiếu nhi Boomerang🎅
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/kEbNZiS.png", K+CINEMA 
