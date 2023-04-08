@@ -264,17 +264,17 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6_480_270.png",Warner TV
-http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png",Animal Planet
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585727494584.png",outdoor
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632999438220/cb5b2ef01b69_480_270.png", Discovery Châu Á HD
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2_480_270.png",AXN HD
-http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de_480_270.png",HBO
-http://103.56.160.133:8081/hbo
+http://live.vthanhtivi.pw/hbo
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://1.bp.blogspot.com/-oSriZPbSiVA/YP65RjiVtRI/AAAAAAAAMqQ/pzi_wTKN9uU-gna7I3OfTCy8xsXdNTkQwCNcBGAsYHQ/s0/kenh-music-box-vtvcab.png",music
@@ -283,9 +283,9 @@ https://phimmoi.asia:443/mytv.php?id=69
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://8387a88d1b.vws.vegacdn.vn/Media/files/channels/poster_1623742687c_Hollywood-201.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
-http://103.56.160.133:8081/cinemax
+http://live.vthanhtivi.pw/cinemax
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png",CinemaWorld HD 
-https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/BoxMovie1_150x902.jpg", Box Movie 1 
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
