@@ -279,7 +279,7 @@ http://live.vthanhtivi.pw/hbo
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://1.bp.blogspot.com/-oSriZPbSiVA/YP65RjiVtRI/AAAAAAAAMqQ/pzi_wTKN9uU-gna7I3OfTCy8xsXdNTkQwCNcBGAsYHQ/s0/kenh-music-box-vtvcab.png",music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://phimmoi.asia:443/mytv.php?id=69
+https://api.anttv.xyz/get/cliptv/840/playlist.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://8387a88d1b.vws.vegacdn.vn/Media/files/channels/poster_1623742687c_Hollywood-201.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
