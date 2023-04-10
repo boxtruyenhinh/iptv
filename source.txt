@@ -279,7 +279,11 @@ https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2_480_270.png",AXN HD
 https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de_480_270.png",HBO
-http://live.vthanhtivi.pw/hbo
+#http://live.vthanhtivi.pw/hbo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"","kid":""},{"kty":"oct","k":"","kid":""} ], "type":"temporary" }
+https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://1.bp.blogspot.com/-oSriZPbSiVA/YP65RjiVtRI/AAAAAAAAMqQ/pzi_wTKN9uU-gna7I3OfTCy8xsXdNTkQwCNcBGAsYHQ/s0/kenh-music-box-vtvcab.png",music
