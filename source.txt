@@ -89,12 +89,10 @@ https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-0-0.m3u8
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/kEbNZiS.png", K+CINEMA 
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://iplogger.com/K_Cine_HD
+https://livevlive.vtvcab.vn/K_CINE_6962/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/C00ySAv.png", K+LIFE  
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://iplogger.com/K_LIFE_HD
+https://livevlive.vtvcab.vn/K_LIFE_6962/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/CH3ohV9.png", K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
