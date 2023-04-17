@@ -89,16 +89,12 @@ https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-0-0.m3u8
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/kEbNZiS.png", K+CINEMA 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" }
-#https://iplogger.com/k-cine
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/K_Cine_HD
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/C00ySAv.png", K+LIFE  
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" }
-#https://iplogger.com/k-life
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/K_LIFE_HD
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/CH3ohV9.png", K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
