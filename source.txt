@@ -89,10 +89,14 @@ https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-0-0.m3u8
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/kEbNZiS.png", K+CINEMA 
-https://livevlive.vtvcab.vn/K_CINE_6962/m20_index.m3u8
+#KODIPROP:inputstream.adaptive.vophu.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SpSFiF0Uc2HcK+10znpwPA","kid":"J7n23d+2HrxZAwHkofdoyg"},{"kty":"oct","k":"hEjmMTetRy++ePMPAy6VMg","kid":"b/323d+2HrxZAwHkofdoyg"},{"kty":"oct","k":"9oFqysHZ3tXS1h6zhc/09A","kid":"fAE6Dt+2HrxZAwHkofdoyg"},{"kty":"oct","k":"rWkn156SsojBHZXyzm6VOg","kid":"aA46Ji62HrxZAwHkofdoyg"}], "type":"temporary"}
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/C00ySAv.png", K+LIFE  
-https://livevlive.vtvcab.vn/K_LIFE_6962/m20_index.m3u8
+#KODIPROP:inputstream.adaptive.vophu.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t6lSbgtt5cVkPtblTQAnAA","kid":"ICECiqNSIx30sw6kA8+G6A"},{"kty":"oct","k":"fQevZeg884zHVeUjD3f4cw","kid":"aGUCiqNSIx30sw6kA8+G6A"},{"kty":"oct","k":"HGh8hPPExDJbRKW0WTMewg","kid":"dWlGu6NSIx30sw6kA8+G6A"},{"kty":"oct","k":"Agw4ccLO9t3H47cAWawfrg","kid":"YXZG0/JSIx30sw6kA8+G6A"}], "type":"temporary"}
+https://vagroup.pw/code/mykplus/klifehd/manifest.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/CH3ohV9.png", K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
