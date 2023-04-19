@@ -91,41 +91,41 @@ https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/kEbNZiS.png", K+CINEMA 
 #KODIPROP:inputstream.adaptive.vophu.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SpSFiF0Uc2HcK+10znpwPA","kid":"J7n23d+2HrxZAwHkofdoyg"},{"kty":"oct","k":"hEjmMTetRy++ePMPAy6VMg","kid":"b/323d+2HrxZAwHkofdoyg"},{"kty":"oct","k":"9oFqysHZ3tXS1h6zhc/09A","kid":"fAE6Dt+2HrxZAwHkofdoyg"},{"kty":"oct","k":"rWkn156SsojBHZXyzm6VOg","kid":"aA46Ji62HrxZAwHkofdoyg"}], "type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/C00ySAv.png", K+LIFE  
 #KODIPROP:inputstream.adaptive.vophu.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t6lSbgtt5cVkPtblTQAnAA","kid":"ICECiqNSIx30sw6kA8+G6A"},{"kty":"oct","k":"fQevZeg884zHVeUjD3f4cw","kid":"aGUCiqNSIx30sw6kA8+G6A"},{"kty":"oct","k":"HGh8hPPExDJbRKW0WTMewg","kid":"dWlGu6NSIx30sw6kA8+G6A"},{"kty":"oct","k":"Agw4ccLO9t3H47cAWawfrg","kid":"YXZG0/JSIx30sw6kA8+G6A"}], "type":"temporary"}
-https://vagroup.pw/code/mykplus/klifehd/manifest
+https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/CH3ohV9.png", K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cMT8P1LsV8mYx9UrpGhxyA","kid":"Rtc+EJPMUVrccjhUIzLHsg"},{"kty":"oct","k":"oprKWXjlP53//wBv7AzrPg","kid":"jhs+EJPMUVrccjhUIzLHsg"},{"kty":"oct","k":"I/zuSjfbmu8iBjzSX22VtQ","kid":"mx+CQZPMUVrccjhUIzLHsg"},{"kty":"oct","k":"8OYERYbs8cSkTdE2nsmKkg","kid":"hyyCWeLMUVrccjhUIzLHsg"}], "type":"temporary"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/de
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/znd5yoc.png", K+SPORT2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LsO9Cba6DrKnz2qMi/sXEQ","kid":"jOvS12AAcnm6fhASjuAXPw"},{"kty":"oct","k":"b82tGnUnbWh0XepW4OvHWA","kid":"1C/S12AAcnm6fhASjuAXPw"},{"kty":"oct","k":"osyNA0FdVCAc/TbBzJ8XvA","kid":"4TMWCGAAcnm6fhASjuAXPw"},{"kty":"oct","k":"prdnRIQn5YnCTpcZEvA+MQ","kid":"zUAWIK8Acnm6fhASjuAXPw"}], "type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2h
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/1vLBlWi.png", K+LIVE 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"+TCOiAyPnaUkGdOp99iOjA", "kid":"32kbdnxAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"I9i6mGzMXKrjePDxNOH9Sw", "kid":"7G1fp3xAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"I9j2urVJm71OROxK4gRPsw", "kid":"2Hpfv8tAQ3GgzwzyX//fNg" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/NqLGD1f.png", K+LIVE 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/ya5SlNJ.png",K+LIVE 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="⚽LIVE FOOTBALL " tvg-logo="https://i.imgur.com/feCOwYI.jpg",LIVE FOOTBALL 1
 
