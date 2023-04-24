@@ -285,9 +285,6 @@ https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/mtv_1500.stream/chunks_dvr_range-${start}-10800.m3u8, MTV
 https://cdn-hk-33.cloudrsst.com/live/mtv_540/playlist.m3u8
-#EXTINF:0 tvg-id="dmaxhd"group-title="Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
-#EXTVLCOPT:http-user-agent="KIIP"
-https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zHS0N8N/Dream-Works.png",DreamWorks
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
