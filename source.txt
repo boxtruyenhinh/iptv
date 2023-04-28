@@ -90,13 +90,13 @@ https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-0-0.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/kEbNZiS.png", K+CINEMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" }.
-https://smarttv-drm.fptplay.net/drmlive/k1cine4000_1080p.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nsbdP+VcW0pgGvFVkR9xIg","kid":"ITVkLD21Sq4fgLoqesx3mw"},{"kty":"oct","k":"ZMAKmNPfnR5XZZAk23w5HQ","kid":"aXlkLD21Sq4fgLoqesx3mw"},{"kty":"oct","k":"Uta091wvoyWBO8WetnMtYw","kid":"dn2oXT21Sq4fgLoqesx3mw"},{"kty":"oct","k":"MnHYJfT9A2BLZOppuN9wcw","kid":"YoqodYy1Sq4fgLoqesx3mw"}], "type":"temporary"}
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/C00ySAv.png", K+LIFE  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" }.
-https://smarttv-drm.fptplay.net/drmlive/k1life4000_1080p.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eJrXsDjxebXPUPGPCeLl6A","kid":"osAJZ9QzkWYwiPsnRyf/KQ"},{"kty":"oct","k":"gLvYV5I8XMG4ch6cX871fw","kid":"6gQJZ9QzkWYwiPsnRyf/KQ"},{"kty":"oct","k":"6/Ckg2PrmfFRgx9oRIYMqg","kid":"9whNmNQzkWYwiPsnRyf/KQ"},{"kty":"oct","k":"Zfcql2G2LgvOKClfnapHOw","kid":"4xVNsCMzkWYwiPsnRyf/KQ"}], "type":"temporary"}
+https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/CH3ohV9.png", K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -125,6 +125,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
 https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
+
 
 #EXTINF:-1 tvg-id="klifehd" group-title="⚽LIVE FOOTBALL " tvg-logo="https://i.imgur.com/feCOwYI.jpg",LIVE FOOTBALL 1
 
