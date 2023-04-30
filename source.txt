@@ -100,8 +100,9 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/CH3ohV9.png", K+SPORT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"XaUqecAm5BpOPcxU9W2ntA", "kid":"1Xmxbd5/OGeAtMi0pXIWAQ" } ], "type":"temporary"}.
-https://smarttv-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qO9U/oNOCGQMM5UiIDy0aA","kid":"5rSl//hePbiVhSog+F2gSQ"},{"kty":"oct","k":"pW9CKRfvt47mlMIxXS6Qfw","kid":"Lvil//hePbiVhSog+F2gSQ"},{"kty":"oct","k":"nS75MWvgQK1Zygjui3wPpQ","kid":"O/zpMPhePbiVhSog+F2gSQ"},{"kty":"oct","k":"OyMknhMzOYJPwlqa/4aV5g","kid":"JwnpSEdePbiVhSog+F2gSQ"}], "type":"temporary"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" ⚽ K+ ⚽" tvg-logo="https://i.imgur.com/znd5yoc.png", K+SPORT2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
