@@ -128,11 +128,17 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
 https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
 
 
-#EXTINF:-1 tvg-id="klifehd" group-title="⚽LIVE FOOTBALL " tvg-logo="https://i.imgur.com/feCOwYI.jpg",LIVE FOOTBALL 1
+#EXTINF:-1 tvg-id="klifehd" group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/feCOwYI.jpg",LIVE EVENT 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="klifehd" group-title="⚽LIVE FOOTBALL " tvg-logo="https://i.imgur.com/HA6O7mZ.jpg",LIVE FOOTBALL 2
+#EXTINF:-1 tvg-id="klifehd" group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/HA6O7mZ.jpg",LIVE EVENT 2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="klifehd" group-title="⚽LIVE FOOTBALL " tvg-logo="https://i.imgur.com/0saFodK.jpg",LIVE FOOTBALL 3
+#EXTINF:-1 tvg-id="klifehd" group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/0saFodK.jpg",LIVE EVENT 3
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
 
 
 #-*--VTVCAB-*--#
